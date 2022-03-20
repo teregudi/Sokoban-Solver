@@ -1,0 +1,14 @@
+C:\Users\Telegdi Tamás\source\repos\MestInt\Sokoban\bin\Debug\netcoreapp3.1\Sokoban.exe
+C:\Users\Telegdi Tamás\source\repos\MestInt\Sokoban\bin\Debug\netcoreapp3.1\Sokoban.deps.json
+C:\Users\Telegdi Tamás\source\repos\MestInt\Sokoban\bin\Debug\netcoreapp3.1\Sokoban.runtimeconfig.json
+C:\Users\Telegdi Tamás\source\repos\MestInt\Sokoban\bin\Debug\netcoreapp3.1\Sokoban.runtimeconfig.dev.json
+C:\Users\Telegdi Tamás\source\repos\MestInt\Sokoban\bin\Debug\netcoreapp3.1\Sokoban.dll
+C:\Users\Telegdi Tamás\source\repos\MestInt\Sokoban\bin\Debug\netcoreapp3.1\Sokoban.pdb
+C:\Users\Telegdi Tamás\source\repos\MestInt\Sokoban\obj\Debug\netcoreapp3.1\Sokoban.csprojAssemblyReference.cache
+C:\Users\Telegdi Tamás\source\repos\MestInt\Sokoban\obj\Debug\netcoreapp3.1\Sokoban.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Telegdi Tamás\source\repos\MestInt\Sokoban\obj\Debug\netcoreapp3.1\Sokoban.AssemblyInfoInputs.cache
+C:\Users\Telegdi Tamás\source\repos\MestInt\Sokoban\obj\Debug\netcoreapp3.1\Sokoban.AssemblyInfo.cs
+C:\Users\Telegdi Tamás\source\repos\MestInt\Sokoban\obj\Debug\netcoreapp3.1\Sokoban.csproj.CoreCompileInputs.cache
+C:\Users\Telegdi Tamás\source\repos\MestInt\Sokoban\obj\Debug\netcoreapp3.1\Sokoban.dll
+C:\Users\Telegdi Tamás\source\repos\MestInt\Sokoban\obj\Debug\netcoreapp3.1\Sokoban.pdb
+C:\Users\Telegdi Tamás\source\repos\MestInt\Sokoban\obj\Debug\netcoreapp3.1\Sokoban.genruntimeconfig.cache
